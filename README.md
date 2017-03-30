@@ -4,10 +4,11 @@
 Elasticsearch Docker image for kubernetes.
 
 
-## Installed
+## Installs
 
 * [OpenJDK 8u112](http://openjdk.java.net/projects/jdk8u/releases/8u112.html)
-* Elasticsearch 5.3.0
+* [Elasticsearch 5.3.0](https://www.elastic.co/guide/en/elasticsearch/reference/5.3/release-notes-5.3.0.html)
+
 
 ## Run
 
