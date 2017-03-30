@@ -3,6 +3,8 @@
 
 Elasticsearch Docker image for kubernetes.
 
+[![Docker Repository on Quay.io](https://quay.io/repository/rangertaha/k8s-docker-elastic/status "Docker Repository on Quay.io")](https://quay.io/repository/rangertaha/k8s-docker-elastic)
+
 
 ## Installs
 
