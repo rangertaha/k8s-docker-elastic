@@ -29,7 +29,7 @@ discovery:
     ping.unicast.hosts: ${DISCOVERY_SERVICE}
     minimum_master_nodes: ${NUMBER_OF_MASTERS}
 
-action.auto_create_index: .security,.monitoring*,.watches,.triggered_watches,.watcher-history*
+action.auto_create_index: .security,.monitoring*,.watches,.triggered_watches,.watcher-history*,logstash-*
 
 xpack:
   # Set to false to disable X-Pack security. Configure in both elasticsearch.yml and kibana.yml.
